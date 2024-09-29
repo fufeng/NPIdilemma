@@ -18,7 +18,7 @@ This repository contains the MATLAB code used to reproduce the main figures and 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/fufeng/npi-compliance-dynamics](https://github.com/fufeng/NPIdilemma.git
+    git clone https://github.com/fufeng/NPIdilemma.git
     cd NPIdilemma
     ```
 
